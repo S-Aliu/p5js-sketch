@@ -6,6 +6,6 @@
     "matches": [
       "<all_urls>"
     ],
-    "js": ["script.js", "p5.min.js", "p5.collide2d.min.js"]
+    "js": ["p5.min.js", "p5.collide2d.min.js", "script.js"]
     }]
 }
